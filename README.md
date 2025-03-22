@@ -1,5 +1,4 @@
 # theSouledStore
-# Simon-s-Game
 - A newly styled clone of the famous Souled-Store website
 🎉 Souled-Store 🎉
 
@@ -18,7 +17,7 @@
 
 **Project Link:**
 
-- https://cute-mandazi-39013c.netlify.app/
+- https://nimble-puppy-1b4c68.netlify.app/
 
 ** Screenshot **
 ![Screenshot 2025-03-22 144153](https://github.com/user-attachments/assets/94445565-ec87-429d-ad49-86df12535d37)
